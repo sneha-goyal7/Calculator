@@ -46,3 +46,9 @@ button{
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1);
     cursor:pointer;
 }
+.equalBtn{
+    background-color: orange;
+}
+.operator{
+    color:#6dee0a;
+}
